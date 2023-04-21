@@ -19,26 +19,28 @@ Create a script that will loop through all the stocks for one year and output th
 
 * The result should look as follows.
 
-![alt text]("C:\Users\jessi\OneDrive\Desktop\Class\NU-VIRT-DATA-PT-12-2022-U-LOLC\02-Homework\02-VBA-Scripting\Starter_Code\Images\moderate_solution.png")
+<img width="718" alt="moderate_solution" src="https://user-images.githubusercontent.com/119890058/233713457-79d9a2eb-15f7-466f-acb8-f711144c5dce.png">
+
 
 ## CHALLENGES
-Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
-hard_solution
+1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
-Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
-Other Considerations
-Use the sheet alphabetical_testing.xlsx while developing your code. This data set is smaller and will allow you to test faster. Your code should run on this file in less than 3-5 minutes.
+<img width="1038" alt="hard_solution" src="https://user-images.githubusercontent.com/119890058/233713486-f7224925-6b44-4f5e-a008-680defc3ca9e.png">
 
-Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
+2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
-Submission
+## Other Considerations
+* Use the sheet alphabetical_testing.xlsx while developing your code. This data set is smaller and will allow you to test faster. Your code should run on this file in less than 3-5 minutes.
+
+* Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
+
+## Submission
 To submit please upload the following to Github:
 
-A screen shot for each year of your results on the Multi Year Stock Data.
+* A screen shot for each year of your results on the Multi Year Stock Data.
 
-VBA Scripts as separate files.
+* VBA Scripts as separate files.
 
-After everything has been saved, create a sharable link and submit that to https://bootcampspot-v2.com/.
 
 Copyright
 Trilogy Education Services © 2019. All Rights Reserved.
