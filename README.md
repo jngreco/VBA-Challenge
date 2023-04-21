@@ -1,10 +1,10 @@
-###VBA-Challenge
-VBA Homework - The VBA of Wall Street
+# VBA-Challenge
+### VBA Homework - The VBA of Wall Street
 
-##Background
+## Background
 You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
 
-##Instructions
+## Instructions
 Create a script that will loop through all the stocks for one year and output the following information.
 
 * The ticker symbol.
@@ -21,7 +21,7 @@ Create a script that will loop through all the stocks for one year and output th
 
 ![alt text]("C:\Users\jessi\OneDrive\Desktop\Class\NU-VIRT-DATA-PT-12-2022-U-LOLC\02-Homework\02-VBA-Scripting\Starter_Code\Images\moderate_solution.png")
 
-##CHALLENGES
+## CHALLENGES
 Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 hard_solution
 
